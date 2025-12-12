@@ -15,7 +15,7 @@ Simple scripts (Python & PowerShell) to automatically scan for and accept pendin
 
 ### For PowerShell Version
 
-* Windows PowerShell 5.1 or PowerShell Core (pwsh) 7+.
+* Windows PowerShell 7
 * No external module installation required.
 
 More details on Cloudflare Python if you need it - https://pypi.org/project/cloudflare/
