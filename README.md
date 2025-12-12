@@ -56,3 +56,4 @@ $CF_EMAIL = "harry@email.com"      # Replace with your Cloudflare Email
 $CF_KEY   = "101010101010101"      # Replace with your Global API Key
 # ---------------------
 ```
+If you get an error about ampersand character is not allowed, make sure you are running in PowerShell 7; this script was tested working within Visual Studio Code, not PowerShell 5/ISE
